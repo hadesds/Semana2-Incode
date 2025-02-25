@@ -1,3 +1,5 @@
+package doWhile;
+
 import java.util.Scanner;
 
 public class doWhileRepeticao {
@@ -10,5 +12,6 @@ public class doWhileRepeticao {
             System.out.println("Quantas vezes quer repetir: ");
             valor = entrada.nextInt();
         } while (valor != 0);
+        entrada.close();
     }
 }

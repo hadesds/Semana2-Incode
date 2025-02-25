@@ -1,3 +1,5 @@
+package doWhile;
+
 import java.util.Scanner;
 
 public class doWhileSenha {

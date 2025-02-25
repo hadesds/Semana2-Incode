@@ -1,3 +1,5 @@
+package operadores;
+
 import java.util.Scanner;
 
 public class operadoresRelacionais {

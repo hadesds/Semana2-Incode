@@ -1,4 +1,5 @@
-import java.sql.SQLOutput;
+package operadores;
+
 import java.util.Scanner;
 
 public class operadoresUnarios {
